@@ -1,0 +1,36 @@
+{
+  "tasks": [
+    {
+      "role": "SE1",
+      "salary": "12,00,000",
+      "type": "Remote",
+      "username": "user@123",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "role": "Data Scientist",
+      "salary": "6,00,000",
+      "type": "Full Time",
+      "username": "user@567",
+      "reminder": false,
+      "id": 6
+    },
+    {
+      "role": "Full Stack Developer",
+      "salary": "8,00,000",
+      "type": "Full Time",
+      "username": "user@011",
+      "reminder": true,
+      "id": 8
+    },
+    {
+      "role": "DevOps Engineer",
+      "salary": "7,00,000",
+      "type": "Remote",
+      "username": "user@876",
+      "reminder": false,
+      "id": 9
+    }
+  ]
+}
