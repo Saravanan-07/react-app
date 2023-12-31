@@ -1,0 +1,29 @@
+
+.confirmation-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h2 {
+    color: #3498db;
+  }
+  
+  p {
+    margin-bottom: 15px;
+  }
+  
+  .back-to-listings-link {
+    display: inline-block;
+    background-color: #e74c3c;
+    color: #fff;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .back-to-listings-link:hover {
+    background-color: #c0392b;
+  }
+  

@@ -1,0 +1,39 @@
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+
+label {
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+
+input {
+  padding: 8px;
+  margin-bottom: 12px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+
+button:hover {
+  background-color: #45a049;
+}
+
+
+h2 {
+  text-align: center;
+  color: #333;
+}
