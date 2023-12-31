@@ -1,0 +1,46 @@
+/* PaymentGateway.css (create a separate CSS file for styling) */
+
+/* Style the container */
+
+  
+  /* Style the form */
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  /* Style the labels */
+  label {
+    margin-bottom: 8px;
+    font-weight: bold;
+  }
+  
+  /* Style the input fields */
+  input {
+    padding: 8px;
+    margin-bottom: 12px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  /* Style the submit button */
+  button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Style the submit button on hover */
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Style the heading */
+  h2 {
+    text-align: center;
+    color: #333;
+  }
+  
